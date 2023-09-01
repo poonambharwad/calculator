@@ -5,3 +5,7 @@
 
 
 print("daily hello world is there!!")
+
+
+from math import sqrt,pow
+print(pow(4,5))
